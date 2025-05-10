@@ -21,7 +21,7 @@ if code = cn
           code_calerular = +15
 else =
           code-calerular = +10
-import editor.code_handler
+import editor.Item.code_handler
 import os. sys
 from random
 
